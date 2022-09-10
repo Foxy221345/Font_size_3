@@ -1,0 +1,35 @@
+.heading
+{
+    background-color: deeppink;
+    font-size:25;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 10px 35px rgb(197, 101, 186);
+    color:white;
+}
+
+.note
+{
+    color:black;
+    font-size:15;
+}
+
+.creation_footer
+{
+    position:fixed;
+    color:white;
+    background-color: deeppink;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    line-height:3;
+}
+
+canvas
+{
+    border-radius:20px;
+    border:5px dotted deeppink;
+    box-shadow:5px 10px 35px rgb(197, 101, 186);
+
+}
+
