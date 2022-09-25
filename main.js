@@ -13,11 +13,8 @@ console.log("after create");
 
  poseNet=ml5.poseNet(video,modelLoaded);
  poseNet.on('pose',gotPoses);
-}
 
-function draw()
-{
-    background("#c45ab8");
+ difference="0";
 }
 
 function modelLoaded()
